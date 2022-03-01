@@ -1,0 +1,352 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Of the faithful friendship that lasted between two faithful friends. To the tune of, Flying fame.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04602</idno>
+            <idno type="STC">Wing O142A</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.7[503]</idno>
+            <idno type="EEBO-CITATION">99884566</idno>
+            <idno type="PROQUEST">ocm99884566</idno>
+            <idno type="VID">183186</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04602)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183186)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:1[270])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Of the faithful friendship that lasted between two faithful friends. To the tune of, Flying fame.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Verse: "In stately Rome sometimes did (dwell ..."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Friendship --  Poetry --  Early works to 1800.</term>
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:183186:1"/>
+            <!-- PDF PAGE 12 -->
+            <head>Of the faithful Friendſhip that laſted between two faithful Friends.</head>
+            <opener>To the Tune of, <hi>Flying Fame.</hi>
+            </opener>
+            <lg>
+               <l>IN ſtately Rome ſometimes did dwell,</l>
+               <l>a man of noble Fame.</l>
+               <l>Who had a ſon of ſeemlie shape,</l>
+               <l>Alphonſo was his name:</l>
+               <l>When he was grown and come to age,</l>
+               <l>his Father thought it beſt.</l>
+               <l>To ſend his ſon to Athens faire.</l>
+               <l>where wiſedoms School did reſt.</l>
+            </lg>
+            <lg>
+               <l>And when he was at Athens come,</l>
+               <l>good Lectors for to learn<g ref="char:punc">▪</g>
+               </l>
+               <l>A place to board him with delight,</l>
+               <l>his friends did well diſcern.</l>
+               <l>A noble Knight of Athens Town,</l>
+               <l>of him did take the charge,</l>
+               <l>Who had a ſon Gancelo cal'd,</l>
+               <l>juſt of his pitch and age.</l>
+            </lg>
+            <lg>
+               <l>In ſtature and in perſon both,</l>
+               <l>in favour, ſpeech, and face:</l>
+               <l>In qualitie and condition eke,</l>
+               <l>they 'greed in everle place.</l>
+               <l>So like they were in all reſpects,</l>
+               <l>the one unto the other;</l>
+               <l>They were not known but by their face,</l>
+               <l>of Father nor of Mother.</l>
+            </lg>
+            <lg>
+               <l>And as in favour they were found</l>
+               <l>alike in all reſpects;</l>
+               <l>Then ſo they did moſt dearlie love,</l>
+               <l>as prov'd by good reſpect.</l>
+               <l>Gancelo loved a Ladie fair,</l>
+               <l>which did in Athens dwell:</l>
+               <l>Who was in beautie peerleſſe found,</l>
+               <l>ſo far she did excell.</l>
+            </lg>
+            <lg>
+               <l>Vpon a time it chanced ſo,</l>
+               <l>as fancie did him move;</l>
+               <l>That he would viſit for delight,</l>
+               <l>his Ladie and his love:</l>
+               <l>And to his true and faithful friend,</l>
+               <l>he did declare the ſame:</l>
+               <l>Asking of him if he would ſee,</l>
+               <l>that fair and comelie Dame.</l>
+            </lg>
+            <lg>
+               <l>Alphonſo did thereto agree,</l>
+               <l>and with Gancelo went:</l>
+               <l>To ſee the Ladie which he lov'd,</l>
+               <l>which bred his diſcontent,</l>
+               <l>But when he caſt his chriſtal eyes,</l>
+               <l>upon her angels hue:</l>
+               <l>The beautie of that Ladie bright,</l>
+               <l>did ſtraight his heart ſubdue,</l>
+            </lg>
+            <lg>
+               <l>His gentle heart ſo wounded was,</l>
+               <l>with that fair Ladie face,</l>
+               <l>That afterward he dallie liv'd</l>
+               <l>in ſad and woeful caſe.</l>
+               <l>And of his grief he knew not how</l>
+               <l>thereof to make an end:</l>
+               <l>For that he knew the Ladies love,</l>
+               <l>was yeelded to his friend.</l>
+            </lg>
+            <lg>
+               <l>Thus being ſore perplext in mind,</l>
+               <l>upon his bed he lay:</l>
+               <l>Like one which death and deep deſpair</l>
+               <l>had almoſt worn away:</l>
+               <l>His friend Ganſelo that did ſee,</l>
+               <l>his grief and great diſtreſſe:</l>
+               <l>At length reſqueſted for to know,</l>
+               <l>his cauſe of heavineſſe,</l>
+            </lg>
+            <lg>
+               <l>With much ado at length he told</l>
+               <l>the truth unto his friend:</l>
+               <l>Who did releaſe his inward woe,</l>
+               <l>with comfort to the end.</l>
+               <l>Take courage then dear friend, quoth he,</l>
+               <l>though she through love be mine:</l>
+               <l>My right <hi>I</hi> will reſign to thee,</l>
+               <l>the Lady ſhall be thine.</l>
+            </lg>
+            <lg>
+               <l>You know our favours are alike,</l>
+               <l>our ſpeech alike likewiſe:</l>
+               <l>This day is mine apparel then</l>
+               <l>you ſhall your ſelf diſguiſe.</l>
+               <l>And unto Church then ſhall you go,</l>
+               <l>directlie in my ſtead;</l>
+               <l>So though in my friends ſuppoſe 'tis I</l>
+               <l>you ſhall the Lady wed.</l>
+            </lg>
+            <lg>
+               <l>Alphonſo was ſo well apaid:</l>
+               <l>and as they had decreed,</l>
+               <l>He went a day, and wedded plain</l>
+               <l>the Lady there in deed.</l>
+               <l>But when the Nuptial feaſt was done,</l>
+               <l>and Phoebus quite was fled,</l>
+               <l>The Lady for Ganſelo took</l>
+               <l>Alphonſo to her bed.</l>
+            </lg>
+            <lg>
+               <l>That night they ſpent in pleaſant ſport,</l>
+               <l>and when the day was come,</l>
+               <l>A Poſt for fair Alphonſo came,</l>
+               <l>to fetch him home to Rome.</l>
+               <l>Then was the matter plainly prov'd,</l>
+               <l>Alphonſo wedded was,</l>
+               <l>And not Ganſelo to that Dame,</l>
+               <l>which brought great woe alas.</l>
+            </lg>
+            <lg>
+               <l>Alphonſo being come to Rome,</l>
+               <l>with this his Ladie gay;</l>
+               <l>Ganſeloes friends and kindred all</l>
+               <l>in ſuch a rage did ſtay.</l>
+               <l>That they depriv'd him of his wealth</l>
+               <l>his lands and rich attire,</l>
+               <l>And baniſht him their Countrey quite</l>
+               <l>in rage and wrathfull ire.</l>
+            </lg>
+            <lg>
+               <l>With ſad and penſive thoughts alas,</l>
+               <l>Ganſelo wandred then,</l>
+               <l>Who was through Want conſtrain'd to beg,</l>
+               <l>relief of many men.</l>
+               <l>In this diſtreſſe oft would he ſay,</l>
+               <l>to Rome I mean to go,</l>
+               <l>To ſeek Alphonſo my dear friend,</l>
+               <l>who will relieve my wo.</l>
+            </lg>
+            <lg>
+               <l>To Rome when poor Ganſelo came,</l>
+               <l>and found Alphonſoes place,</l>
+               <l>Which was ſo famous, huge and fair,</l>
+               <l>himſelf in ſuch poor caſe,</l>
+               <l>He was aſham'd to ſhew himſelf</l>
+               <l>in that his poor array.</l>
+               <l>Saying, Alphonſo knowes me well,</l>
+               <l>if he ſhould come this way.</l>
+            </lg>
+            <lg>
+               <l>Wherefore he ſtaid within the ſtreet,</l>
+               <l>Alphonſo then came by,</l>
+               <l>But heeded not Ganſelo poor,</l>
+               <l>his friend that ſtood ſo nigh.</l>
+               <l>Which griev'd Ganſelo to the heart,</l>
+               <l>quoth he, and is it ſo:</l>
+               <l>Doth proud Alphonſo now diſdain</l>
+               <l>his friends to need to know.</l>
+            </lg>
+            <lg>
+               <l>In deſperate ſort away he went</l>
+               <l>into a Barn hard by,</l>
+               <l>And preſently he drew his knife,</l>
+               <l>thinking thereby to die;</l>
+               <l>And bitterly in ſorrow there</l>
+               <l>he did lament and weep.</l>
+               <l>And being over weigh'd with grief</l>
+               <l>he there fell faſt aſleep.</l>
+            </lg>
+            <lg>
+               <l>Where ſoundly there he ſweetly ſleept</l>
+               <l>came in a murdering thief,</l>
+               <l>And with a naked knife, lay by</l>
+               <l>this man ſo full of grief.</l>
+               <l>This knife ſo bright he took up ſtraight,</l>
+               <l>and went away amain,</l>
+               <l>And thruſt it into a murdered a man</l>
+               <l>which he before had ſlain,</l>
+            </lg>
+            <lg>
+               <l>And afterward he went with ſpeed</l>
+               <l>and put this bloodie knife</l>
+               <l>Into his hand that ſleeping lay,</l>
+               <l>to ſave himſelf from ſtrife;</l>
+               <l>Which done, in haſte away he ran:</l>
+               <l>and when that ſearch was made</l>
+               <l>Ganſelo with his bloodie knife</l>
+               <l>was for the murder ſtaid;</l>
+            </lg>
+            <lg>
+               <l>And brought before the Magiſtrat,</l>
+               <l>who did confeſſe moſt plain,</l>
+               <l>That he indeed with that ſame knife</l>
+               <l>the murdered man had ſlain.</l>
+               <l>Alphonſo ſitting there as Iudge,</l>
+               <l>and knowing Ganſeloes face,</l>
+               <l>To ſave his friend, did ſay himſelf</l>
+               <l>was guiltie in that caſe.</l>
+            </lg>
+            <lg>
+               <l>None quoth Alphonſo, kill'd the man,</l>
+               <l>my Lord, but only I:</l>
+               <l>And therefore ſet this poor man free,</l>
+               <l>and let me juſtly die.</l>
+               <l>Then while for death theſe loving friends</l>
+               <l>in ſtriving did proceed,</l>
+               <l>The man before the Senate came,</l>
+               <l>which did the fact indeed;</l>
+            </lg>
+            <lg>
+               <l>Who being moved with remorſe,</l>
+               <l>their friendlie hearts to ſee,</l>
+               <l>Did prove before the judges plain,</l>
+               <l>none did the fact but he.</l>
+               <l>Thus when the truth was plainly told</l>
+               <l>of all ſides joy was ſeen:</l>
+               <l>Alphonſo did imbrace his friend,</l>
+               <l>which had ſo wofull been.</l>
+            </lg>
+            <lg>
+               <l>In rich array he cloathed him,</l>
+               <l>as fitted his degree;</l>
+               <l>And helps him to his lands again,</l>
+               <l>and former dignitie.</l>
+               <l>The murderer, for telling truth,</l>
+               <l>had pardon at that time.</l>
+               <l>Who afterward lamented much,</l>
+               <l>his ſoul and grievous crime,</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
